@@ -15,3 +15,7 @@ Como apoio deste projeto, foi criado um projeto em paralelo somente para os cód
 Nesta forma tentarei exemplificar e reaprender os conceitos na programação, cujo qual sinto falta.
 
 Qualquer coisa visitem o [SBM (Pequeno Sistema de Gerenciamento)](https://github.com/emersonmuniz/SBM) para acompanhar o projeto de desenvolvimento.
+
+Para acompanhar este projeto em forma Kanban use o link: (Trello)
+https://trello.com/invite/b/oxxKavup/ATTI0d2c684fd679c630d80596d1cae464c2D7BE5F8F/ici
+
