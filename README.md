@@ -1,21 +1,26 @@
+# Picolézito Indústria de Sorvetes
+
+## Objetivo
+Este projeto tem como objetivo revisitar minhas raízes no desenvolvimento, afastando-me temporariamente da gestão de TI e das responsabilidades administrativas. Com o passar do tempo, a memória pode enfraquecer.
+
+### Simulação
+Nosso objetivo é "simular" uma indústria de sorvetes que está substituindo seu sistema de gestão atual por um desenvolvido internamente. Esta indústria possui duas lojas de venda direta.
+
+Serão realizadas simulações para o levantamento de requisitos e desenvolvimento dos módulos. Além disso, serão utilizados documentos e planilhas eletrônicas para auxiliar na coleta de dados e no uso administrativo.
+
+### Exclusões
+Não serão abordados em profundidade temas como SPED Fiscal e similares, devido à complexidade e à alta demanda imposta pela "*burrocracia*" brasileira. No entanto, podemos integrar soluções open-source já existentes para essas funcionalidades.
+
+### Projeto Paralelo
+Foi criado um projeto paralelo exclusivamente para o código-fonte. Como estou revisitando estudos, os códigos serão desenvolvidos em duas linguagens (PHP e Python) para reforçar meu aprendizado.
+
+Para acompanhar o desenvolvimento, visite o [GPN (Gestão de Pequenos Negócios)](https://github.com/emersonmuniz/GPN).
+
+### Conclusão
+Espero que este projeto sirva como uma base simples para quem está começando na área. No meu caso, ajudará na fixação do conhecimento.
+
+Seja bem-vindo a críticas construtivas e sugestões de melhoria.
+
+Enjoy
+
 ![LogoPicolezito.png](./images/LogoPicolezito.png)
-
-# Picolézito Industria de Sorvetes
-
-Este projeto se trata de eu voltar as origens de meus projetos na área de TI.
-
-A intenção é “*simular*” uma industria de sorvetes que está trocando o seu sistema atual de gestão para um desenvolvido internamente.
-
-Haverá simulações administrativas para levantamento dos requisitos e desenvolvimento dos módulos. Como tambem documentos e planilhas eletrônicas para ajudar na coleta de dados. Alguns modelos funcionais para pequenas empresas caso queiram utilizar.
-
-Não será tratado em detalhes assuntos como SPED Fiscal e afins, devido a alta demanda e complicações de nossa estimada “**burrocracia**” brasileira.
-
-Como apoio deste projeto, foi criado um projeto em paralelo somente para os códigos fontes, quero imergir nestes códigos em várias tecnologias, mas deixando algo pronto e usável.
-
-Nesta forma tentarei exemplificar e reaprender os conceitos na programação, cujo qual sinto falta.
-
-Qualquer coisa visitem o [SBM (Pequeno Sistema de Gerenciamento)](https://github.com/emersonmuniz/SBM) para acompanhar o projeto de desenvolvimento.
-
-Para acompanhar este projeto em forma Kanban use o link: (Trello)
-https://trello.com/invite/b/oxxKavup/ATTI0d2c684fd679c630d80596d1cae464c2D7BE5F8F/ici
-
